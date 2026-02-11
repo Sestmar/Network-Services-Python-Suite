@@ -11,6 +11,3 @@ Herramientas de administración y prueba de red desarrolladas en Python con inte
 ## Tecnologías
 - Python 3.x
 - Librerías: `smtplib`, `socket`, `ntplib`, `tkinter`.
-
-## Capturas
-(Aquí podrías poner las imágenes si quisieras, pero no es obligatorio)
